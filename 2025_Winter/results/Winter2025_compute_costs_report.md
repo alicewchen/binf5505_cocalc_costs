@@ -1,0 +1,118 @@
+# Winter 2025 Compute Costs Report
+<p style='font-size: 18px;'>Instructor ID: 4721d6f7</p>
+<p style='font-size: 18px;'>Project ID: 4721d6f7-2c22-4a6c-9227-499a9b0a40b0</p>
+<p style='font-size: 18px; font-weight: bold;'>Total cost: 223.54365713319999</p>
+
+<img src='/home/alice/git-repo/scratch/CoCalc_costs/results/Winter2025_compute_costs_breakdown_1.png' alt='Winter2025_compute_costs_breakdown_1' style='width: 100%; height: auto;'>
+
+<img src='/home/alice/git-repo/scratch/CoCalc_costs/results/Winter2025_compute_costs_breakdown_2.png' alt='Winter2025_compute_costs_breakdown_2' style='width: 80%; height: auto;'>
+
+<div style='page-break-before: always;'></div>
+
+----
+
+|    | project_id                           |       cost |
+|---:|:-------------------------------------|-----------:|
+| 25 | e869b46b-acbd-4e53-9722-d41f41348050 | 30.5917    |
+|  0 | 02dca5a6-92da-4805-b9d9-9d5076ba3a94 | 23.4219    |
+| 13 | 7cc205d7-4d68-4202-827c-0d03275ac596 | 22.6561    |
+| 15 | 8b4ffd18-bb23-4915-a5b5-e36d4c1735b9 | 21.4716    |
+| 18 | 9e7b601b-4d71-44bf-87ac-2951de80914c | 16.732     |
+| 26 | efb3a55d-36a1-4c57-a81e-ebbfa51cf6a5 | 13.8735    |
+| 23 | c055da69-b2dd-4778-97a3-9c186754a109 | 12.8633    |
+|  5 | 2785ee12-5041-4186-9a51-f5eae67d9e61 | 12.7053    |
+| 21 | a7e23582-eef2-4b26-a9f2-00d6e9e2737b |  9.02896   |
+| 28 | f69fc901-0355-45db-8b63-ccfd45de7098 |  6.09989   |
+|  2 | 0bbef53a-9e4f-4033-aca0-1b132d78f51a |  5.4374    |
+|  6 | 2938a9ac-e1ea-4919-83a6-6dfd0f39109f |  5.36198   |
+|  1 | 0418f82f-0a4b-4ed1-9e98-f3cf08846603 |  5.04597   |
+| 22 | b35b082b-a3c3-408b-948e-58a868779e1c |  4.42337   |
+|  4 | 2224b8c9-88b9-4bd9-8928-8df052898973 |  4.36501   |
+|  9 | 4721d6f7-2c22-4a6c-9227-499a9b0a40b0 |  3.79959   |
+| 19 | 9f166a44-3293-4cfb-865a-01a5eebecca5 |  3.58892   |
+| 29 | f6ba4a5f-9295-45f2-b933-f8d369ed0246 |  3.02146   |
+| 20 | 9f5a84fd-7995-4ce3-9132-3ade01eef80e |  2.9551    |
+| 10 | 555fd760-9530-4f11-8af1-efb32669c5e4 |  2.78832   |
+|  3 | 19b6c206-827f-4096-9b64-8a9baf4ecc0e |  2.78482   |
+| 12 | 75386df1-44db-4b3f-a21a-46faa6def380 |  2.3969    |
+| 27 | f3ce9277-6bd5-486f-be64-08fa087b18b9 |  1.51473   |
+| 16 | 8e6c04ec-ed35-462a-bbbc-7de31c72ac86 |  1.33438   |
+| 24 | c1ca023b-5014-40ae-96a6-38d2593fd387 |  1.31223   |
+|  8 | 40c3c5cf-dc6e-4545-9e84-0d59c486f90d |  1.30643   |
+|  7 | 3b6964ea-f52e-446c-87d5-eb10f22d47b2 |  1.30489   |
+| 14 | 894b6a7a-d98c-4b1a-8bf3-1b9377cdf0a5 |  0.66696   |
+| 17 | 9a7bc766-6e0b-41da-9b0d-3528feebe570 |  0.666725  |
+| 11 | 592aacf3-a063-4733-8b8d-5c41f2372111 |  0.0242764 |
+
+----
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>vCPU</th>
+      <th>2</th>
+      <th>4</th>
+      <th>8</th>
+      <th>32</th>
+      <th>60</th>
+    </tr>
+    <tr>
+      <th>diskSizeGb</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>750</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>116.973697</td>
+    </tr>
+    <tr>
+      <th>100</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.277322</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>6.721039</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>40.122345</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>NaN</td>
+      <td>0.962925</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>0.086281</td>
+      <td>NaN</td>
+      <td>58.400049</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
